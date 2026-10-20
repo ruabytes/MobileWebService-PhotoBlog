@@ -1,0 +1,27 @@
+# Python
+**/venv/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+*.sqlite3
+.coverage
+htmlcov/
+
+# Android
+**/.gradle/
+**/.idea/
+**/build/
+**/local.properties
+*.iml
+
+# Secrets
+*.jks
+*.keystore
+*.pem
+*.p12
+credentials.json
+google-services.json
+
+# Other
+.DS_Store
